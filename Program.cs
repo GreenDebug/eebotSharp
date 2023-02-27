@@ -384,8 +384,8 @@ namespace eebot_CSharp
                new botConfig
                {
                    channel = "chat",
-                   password = "40331145",
-                   token = "114514",
+                   password = "你的密码",
+                   token = "你的token",
                    username = "csbot",
 
                }
